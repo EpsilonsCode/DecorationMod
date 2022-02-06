@@ -1,0 +1,12 @@
+{
+  "multipart": [
+    {
+      "when": {"lava_color":  "gray"},
+      "apply": {"model":  "examplemod:block/lava_lamp_lava_gray"}
+    },
+    {
+      "when": {"lava_color":  "orange"},
+      "apply": {"model":  "examplemod:block/lava_lamp_lava_orange"}
+    }
+  ]
+}

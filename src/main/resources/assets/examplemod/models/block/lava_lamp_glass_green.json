@@ -1,0 +1,6 @@
+{
+  "parent": "examplemod:block/lava_lamp_glass",
+  "textures": {
+    "texture": "examplemod:block/lava_lamp_glass_green"
+  }
+}
